@@ -1,0 +1,782 @@
+[00:07:13] [Server thread/INFO]: Angelo177[/187.136.6.158:26344] logged in with entity id 177920 at (-122.18882381393576, 73.0, -389.6350072219736)
+[00:07:13] [Server thread/INFO]: Angelo177 joined the game
+[00:09:23] [Server thread/WARN]: Fetching packet for removed entity awb['Dark Oak Log'/178386, l='Ragnarok', x=-215.75, y=77.38, z=-321.60]
+[00:14:34] [Server thread/WARN]: Angelo177 moved too quickly! -0.5159018502149593,-1.0,-10.024449223536237
+[00:14:38] [Server thread/INFO]: Angelo177 was slain by Zombie
+[00:14:47] [Server thread/INFO]: Angelo177 was slain by Zombie
+[00:14:54] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:14:55] [Server thread/WARN]: Angelo177 moved wrongly!
+[00:15:01] [Server thread/INFO]: Jayzee[/189.218.31.9:6548] logged in with entity id 179490 at (-221.27199810799326, 74.0, -319.84867110994037)
+[00:15:01] [Server thread/INFO]: Jayzee joined the game
+[00:15:12] [Server thread/INFO]: Angelo177 was slain by Zombie
+[00:15:20] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:15:35] [Server thread/INFO]: Angelo177 was slain by Spider
+[00:15:44] [Server thread/INFO]: Angelo177 lost connection: Timed out
+[00:15:44] [Server thread/INFO]: Angelo177 left the game
+[00:15:44] [Server thread/WARN]: handleDisconnection() called twice
+[00:15:56] [Server thread/INFO]: Angelo177[/187.136.6.158:24645] logged in with entity id 179825 at (-155.2913691467788, 64.0, -311.87327254877135)
+[00:15:56] [Server thread/INFO]: Angelo177 joined the game
+[00:15:57] [Server thread/INFO]: <Diegosuwu> un zxombie
+[00:15:59] [Server thread/INFO]: <Diegosuwu> de diamante XD
+[00:16:01] [Server thread/INFO]: <Diegosuwu> olov
+[00:16:16] [Server thread/INFO]: <Jayzee> diego me escuchas?
+[00:16:20] [Server thread/INFO]: Angelo177 was slain by Zombie
+[00:16:21] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:21] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:21] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:23] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$b.a(SourceFile:18) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:23] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:23] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:42] [Server thread/INFO]: Angelo177 was slain by Zombie
+[00:16:48] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:48] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:16:48] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:17:00] [Server thread/INFO]: Angelo177 was slain by Zombie
+[00:17:07] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:703) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[00:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:17:31] [Server thread/INFO]: Angelo177 was shot by Skeleton
+[00:17:54] [Server thread/INFO]: Diegosuwu lost connection: Disconnected
+[00:17:54] [Server thread/INFO]: Diegosuwu left the game
+[00:18:00] [Server thread/WARN]: Angelo177 moved too quickly! -3.9443358198235217,0.0,9.267728124329949
+[00:20:13] [Server thread/INFO]: Diegosuwu[/189.218.30.57:25592] logged in with entity id 180850 at (-125.56104450363534, 72.0, -369.55633570258414)
+[00:20:13] [Server thread/INFO]: Diegosuwu joined the game
+[00:20:31] [Server thread/INFO]: <Diegosuwu> ten
+[00:20:33] [Server thread/INFO]: <Jayzee> e diego
+[00:20:34] [Server thread/INFO]: <Diegosuwu> creoq ue esto es tuyo
+[00:20:36] [Server thread/INFO]: <Diegosuwu> lo tenia un zombie
+[00:20:37] [Server thread/INFO]: <Jayzee> tas mute
+[00:20:55] [Server thread/INFO]: <Diegosuwu> ahorita me desmuteo
+[00:20:56] [Server thread/INFO]: <Jayzee> estas muteado diego
+[00:20:57] [Server thread/INFO]: <Diegosuwu> ten pal zombie
+[00:20:59] [Server thread/INFO]: <Jayzee> aa ok
+[00:21:07] [Server thread/INFO]: Diegosuwu lost connection: Disconnected
+[00:21:07] [Server thread/INFO]: Diegosuwu left the game
+[00:30:42] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/182320, l='Ragnarok', x=-144.49, y=60.00, z=-296.81]
+[00:37:02] [Server thread/INFO]: Angelo177 was blown up by Creeper
+[00:53:00] [Server thread/INFO]: Angelo177 lost connection: Timed out
+[00:53:00] [Server thread/INFO]: Angelo177 left the game
+[00:53:00] [Server thread/WARN]: handleDisconnection() called twice
+[00:53:14] [Server thread/INFO]: Angelo177[/187.136.6.158:25103] logged in with entity id 187328 at (-124.24370595926538, 73.0, -378.60800514724434)
+[00:53:14] [Server thread/INFO]: Angelo177 joined the game
+[00:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
+[00:54:34] [Server thread/INFO]: Angelo177 lost connection: Disconnected
+[00:54:34] [Server thread/INFO]: Angelo177 left the game
+[00:54:53] [Server thread/INFO]: Angelo177[/187.136.6.158:25237] logged in with entity id 187601 at (-125.39022007302752, 73.0, -372.3230877195954)
+[00:54:53] [Server thread/INFO]: Angelo177 joined the game
+[00:56:07] [Server thread/WARN]: Angelo177 moved too quickly! -5.528287186046043,-0.8378585789729982,8.330879032748953
+[00:56:55] [Server thread/INFO]: Angelo177 lost connection: Disconnected
+[00:56:55] [Server thread/INFO]: Angelo177 left the game
+[01:02:39] [Server thread/INFO]: Jayzee lost connection: Disconnected
+[01:02:39] [Server thread/INFO]: Jayzee left the game
+[02:45:55] [Server thread/INFO]: Diegosuwu[/189.218.30.57:18390] logged in with entity id 188616 at (-130.11260476435424, 64.0, -335.0976706192313)
+[02:45:55] [Server thread/INFO]: Diegosuwu joined the game
+[02:50:34] [Server thread/INFO]: Jayzee[/189.218.31.9:34473] logged in with entity id 189539 at (-86.82245727201806, 79.0, -281.9297127178095)
+[02:50:35] [Server thread/INFO]: Jayzee joined the game
+[03:03:58] [Server thread/INFO]: Diegosuwu has reached the goal [Zombie Doctor]
+[03:07:42] [Server thread/INFO]: Angelo177[/187.136.6.158:24878] logged in with entity id 192207 at (-133.3325366545044, 73.0, -372.6468657909511)
+[03:07:42] [Server thread/INFO]: Angelo177 joined the game
+[03:14:58] [Server thread/INFO]: Angelo177 lost connection: Timed out
+[03:14:58] [Server thread/INFO]: Angelo177 left the game
+[03:14:58] [Server thread/WARN]: handleDisconnection() called twice
+[03:15:22] [Server thread/INFO]: Angelo177[/187.136.6.158:26011] logged in with entity id 193514 at (-149.30000001192093, 66.0, -294.730937803971)
+[03:15:22] [Server thread/INFO]: Angelo177 joined the game
+[03:15:52] [Server thread/INFO]: Angelo177 lost connection: Timed out
+[03:15:52] [Server thread/INFO]: Angelo177 left the game
+[03:15:52] [Server thread/WARN]: handleDisconnection() called twice
+[03:16:05] [Server thread/INFO]: Angelo177[/187.136.6.158:26099] logged in with entity id 193653 at (-141.26900099307255, 72.0, -294.00500746141256)
+[03:16:05] [Server thread/INFO]: Angelo177 joined the game
+[03:22:41] [Server thread/INFO]: Sioco[/187.136.8.93:54003] logged in with entity id 194644 at (-217.02759869156452, 81.0, -268.74285928316414)
+[03:22:41] [Server thread/INFO]: Sioco joined the game
+[03:24:03] [Server thread/INFO]: Ras[/189.218.220.166:41166] logged in with entity id 194943 at (-53.32839169177511, 101.0, -114.36773599558761)
+[03:24:03] [Server thread/INFO]: Ras joined the game
+[03:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[03:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6409ms or 128 ticks behind
+[03:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7935ms or 158 ticks behind
+[03:32:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4229ms or 84 ticks behind
+[03:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[03:33:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[03:34:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[03:36:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[03:36:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7631ms or 152 ticks behind
+[03:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6001ms or 120 ticks behind
+[03:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4370ms or 87 ticks behind
+[03:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[03:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7374ms or 147 ticks behind
+[03:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7810ms or 156 ticks behind
+[03:48:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/202282, l='Ragnarok', x=-118.46, y=64.00, z=-368.60]
+[03:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03:49:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
+[03:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23334ms or 466 ticks behind
+[03:50:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5107ms or 102 ticks behind
+[03:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
+[03:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23781ms or 475 ticks behind
+[03:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9276ms or 185 ticks behind
+[03:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11759ms or 235 ticks behind
+[03:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10664ms or 213 ticks behind
+[03:53:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6070ms or 121 ticks behind
+[03:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6287ms or 125 ticks behind
+[03:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3407ms or 68 ticks behind
+[03:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6363ms or 127 ticks behind
+[03:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13167ms or 263 ticks behind
+[03:54:38] [Server thread/WARN]: Sioco moved wrongly!
+[03:54:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[03:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17117ms or 342 ticks behind
+[03:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5100ms or 102 ticks behind
+[03:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14690ms or 293 ticks behind
+[03:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
+[03:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4245ms or 84 ticks behind
+[03:57:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
+[03:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4066ms or 81 ticks behind
+[03:57:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4423ms or 88 ticks behind
+[03:58:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5034ms or 100 ticks behind
+[03:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4450ms or 89 ticks behind
+[03:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8360ms or 167 ticks behind
+[03:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7212ms or 144 ticks behind
+[03:59:30] [Server thread/WARN]: Sioco moved wrongly!
+[03:59:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5620ms or 112 ticks behind
+[03:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3600ms or 72 ticks behind
+[04:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4166ms or 83 ticks behind
+[04:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9118ms or 182 ticks behind
+[04:00:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-562, y=63, z=-1189} fk{x=-561, y=62, z=-1189}
+[04:00:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-564, y=63, z=-1188} fk{x=-563, y=62, z=-1187}
+[04:01:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29993ms or 599 ticks behind
+[04:01:53] [Server thread/WARN]: Boat (vehicle of Sioco) moved too quickly! -0.43050799345269297,0.0,10.090216119945694
+[04:01:53] [Server thread/WARN]: Boat (vehicle of Sioco) moved too quickly! -0.5471530486441907,0.0,10.466931065255949
+[04:01:53] [Server thread/WARN]: Boat (vehicle of Sioco) moved too quickly! -0.6680200736615234,0.0,10.842684445251848
+[04:01:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19851ms or 397 ticks behind
+[04:02:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9210ms or 184 ticks behind
+[04:02:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[04:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5263ms or 105 ticks behind
+[04:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4604ms or 92 ticks behind
+[04:03:35] [Server thread/WARN]: Angelo177 moved too quickly! -3.833825613953479,0.1754232959521005,9.403350598896509
+[04:03:35] [Server thread/WARN]: Sioco moved too quickly! 10.056253970105104,0.0,0.9537198472060027
+[04:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11376ms or 227 ticks behind
+[04:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3356ms or 67 ticks behind
+[04:04:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3972ms or 79 ticks behind
+[04:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[04:05:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[04:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
+[04:05:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6194ms or 123 ticks behind
+[04:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15556ms or 311 ticks behind
+[04:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13777ms or 275 ticks behind
+[04:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15533ms or 310 ticks behind
+[04:08:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17876ms or 357 ticks behind
+[04:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11489ms or 229 ticks behind
+[04:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[04:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:10:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7630ms or 152 ticks behind
+[04:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[04:10:59] [Server thread/INFO]: [Sioco: Teleported Sioco to Diegosuwu]
+[04:11:07] [Server thread/INFO]: [Sioco: Teleported Sioco to Diegosuwu]
+[04:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[04:15:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4926ms or 98 ticks behind
+[04:16:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
+[04:20:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:20:26] [Server thread/INFO]: <Sioco> s
+[04:20:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[04:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:25:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[04:26:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5362ms or 107 ticks behind
+[04:27:20] [Server thread/INFO]: <Sioco> f
+[04:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[04:34:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[04:35:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3818ms or 76 ticks behind
+[04:36:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[04:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[04:38:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11453ms or 229 ticks behind
+[04:38:10] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -5.94522894352292,0.0,8.483993245637066
+[04:38:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8993ms or 179 ticks behind
+[04:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8099ms or 161 ticks behind
+[04:39:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9957ms or 199 ticks behind
+[04:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10472ms or 209 ticks behind
+[04:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10534ms or 210 ticks behind
+[04:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10653ms or 213 ticks behind
+[04:40:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[04:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7656ms or 153 ticks behind
+[04:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12771ms or 255 ticks behind
+[04:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11885ms or 237 ticks behind
+[04:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4787ms or 95 ticks behind
+[04:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5756ms or 115 ticks behind
+[04:43:17] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -4.092016846354966,0.0,-9.561136544076817
+[04:43:17] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -4.092016846354966,0.0,-9.561136544076817
+[04:43:17] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -4.249402109676339,0.0,-9.928872565002848
+[04:43:17] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -4.406787372997655,0.0,-10.29660858592888
+[04:43:17] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -4.564172636319029,0.0,-10.664344606854911
+[04:43:17] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -4.721557899640345,0.0,-11.032080627780942
+[04:43:17] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -4.878943162961718,0.0,-11.399816648706974
+[04:43:17] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -5.036328426283035,0.0,-11.767552669633005
+[04:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12890ms or 257 ticks behind
+[04:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7044ms or 140 ticks behind
+[04:47:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[04:47:28] [Server thread/WARN]: Fetching packet for removed entity awb['Rotten Flesh'/230439, l='Ragnarok', x=-128.29, y=64.00, z=-360.64]
+[04:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6568ms or 131 ticks behind
+[04:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12213ms or 244 ticks behind
+[04:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[04:52:33] [Server thread/INFO]: Angelo177 lost connection: Disconnected
+[04:52:33] [Server thread/INFO]: Angelo177 left the game
+[04:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[04:56:59] [Server thread/INFO]: Angelo177[/187.136.6.158:25419] logged in with entity id 234486 at (-124.21119666302917, 73.0, -374.40044966681506)
+[04:56:59] [Server thread/INFO]: Angelo177 joined the game
+[04:57:14] [Server thread/INFO]: Sioco lost connection: Disconnected
+[04:57:14] [Server thread/INFO]: Sioco left the game
+[05:01:19] [Server thread/INFO]: Diegosuwu lost connection: Disconnected
+[05:01:19] [Server thread/INFO]: Diegosuwu left the game
+[05:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[05:16:50] [Server thread/WARN]: Ras moved wrongly!
+[05:19:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[05:19:13] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -9.094737153911638,0.0,4.922969032977676
+[05:19:13] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! -9.462038356554274,0.0,5.079133333006382
+[05:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:29:10] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! 10.147522225516354,0.0,-2.162487800983399
+[05:29:10] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! 10.540266537854563,0.0,-2.237313864388682
+[05:29:10] [Server thread/WARN]: Boat (vehicle of Ras) moved too quickly! 10.933075288882435,0.0,-2.3118997268535395
+[05:29:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[05:31:18] [Server thread/WARN]: Ras moved wrongly!
+[05:34:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[05:53:03] [Server thread/INFO]: Ras lost connection: Disconnected
+[05:53:03] [Server thread/INFO]: Ras left the game
+[05:54:13] [Server thread/INFO]: Diegosuwu[/189.218.30.57:30874] logged in with entity id 249483 at (-151.69999998807907, 64.0, -287.30000001192093)
+[05:54:13] [Server thread/INFO]: Diegosuwu joined the game
+[06:19:14] [Server thread/INFO]: Diegosuwu has made the advancement [What a Deal!]
+[06:25:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[06:39:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-120, y=63, z=-384} fk{x=-120, y=62, z=-384}
+[06:45:56] [Server thread/INFO]: Villager axw['Nitwit'/166169, l='Ragnarok', x=-166.61, y=63.00, z=-349.70] died, message: 'Nitwit was slain by Zombie'
+[06:47:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[06:47:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17242ms or 344 ticks behind
+[06:49:34] [Server thread/INFO]: Diegosuwu lost connection: Disconnected
+[06:49:34] [Server thread/INFO]: Diegosuwu left the game
+[07:02:17] [Server thread/INFO]: Diegosuwu[/189.218.30.57:48853] logged in with entity id 260043 at (-34.92347050769277, 83.875, -249.10719139311726)
+[07:02:17] [Server thread/INFO]: Diegosuwu joined the game
+[07:24:09] [Server thread/INFO]: Diegosuwu lost connection: Disconnected
+[07:24:09] [Server thread/INFO]: Diegosuwu left the game
+[07:45:56] [Server thread/WARN]: Angelo177 moved too quickly! 5.2697429757612895,-1.0,-8.537430971357992
+[07:48:33] [Server thread/INFO]: Jayzee lost connection: Disconnected
+[07:48:33] [Server thread/INFO]: Jayzee left the game
+[07:48:40] [Server thread/INFO]: Jayzee[/189.218.31.9:43056] logged in with entity id 267351 at (-92.86766626380901, 78.0, -274.7427412851166)
+[07:48:40] [Server thread/INFO]: Jayzee joined the game
+[08:06:49] [Server thread/WARN]: Jayzee moved too quickly! 5.6364664694292514,-0.04353562014750878,-8.398000044129446
+[08:07:19] [Server thread/INFO]: Jayzee lost connection: Disconnected
+[08:07:19] [Server thread/INFO]: Jayzee left the game
+[08:09:00] [Server thread/INFO]: Angelo177 lost connection: Disconnected
+[08:09:00] [Server thread/INFO]: Angelo177 left the game
